@@ -1,0 +1,11 @@
+{
+  "name": "jsDemo",
+  "version": "0.1.0",
+  "description": "demo for strem in js",
+  "dependencies": {
+    "stmjs": "~0.1.0"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  }
+}
