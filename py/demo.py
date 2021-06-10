@@ -1,6 +1,6 @@
 #!/usr/bin/python
 #coding:utf-8
-import stmpy-lib as stmpy
+import stmpy_lib as stmpy
 import json
 
 def main():
